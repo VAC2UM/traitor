@@ -1,5 +1,5 @@
 module github.com/liamg/traitor
-
+#test
 go 1.18
 
 require (
